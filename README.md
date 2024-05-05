@@ -52,5 +52,5 @@ Previous orders that were placed which are fetched from the database.<br><br>
 - [x] [Deployment](https://myburgerapp-2567a.firebaseapp.com/)
 
 ## Authors
-[Atharva Thorve](https://github.com/AtharvaThorve)
+[Mrityunjay Joshi](https://github.com/Mrityunjay243)
 <hr>
